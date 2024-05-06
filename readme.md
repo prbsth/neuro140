@@ -1,6 +1,6 @@
 # simulacra
 a project to generate synthetic people with vivid backstories, equip them with human-like memory, and allow them to converse with each other in simulations. <br />
-below are some sample outputs from this project. i am happy to discuss the details of my full code if you wish to talk further, but i do not want to put it on a public repo. 
+below are some sample outputs from this project. ThE full code is private but i am happy to discuss the details if you wish to talk further.
 # Person Generation:
 used long context models to make detailed "backstories" of agents, memories, personal relationships, motivations. Example: <br />
 Input into person generation:  <br />
