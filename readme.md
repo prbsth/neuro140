@@ -1,4 +1,4 @@
-# simulacrum
+# simulacra
 a project to generate synthetic people with vivid backstories, equip them with human-like memory, and allow them to converse with each other in simulations. 
 # Person Generation:
 used long context models to make detailed "backstories" of agents, memories, personal relationships, motivations. Example: <br />
